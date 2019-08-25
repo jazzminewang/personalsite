@@ -14,3 +14,10 @@ I'm grateful to be supported during this exploration phase by several organizati
 To be notified when I post + receive fun artifacts I discover along the way, subscribe to my [newsletter](https://tinyletter.com/jasminewang). I generate shorter artifacts on [Twitter](https://twitter.com/j_asminewang) and cache personal thoughts on [reading.supply](https://reading.supply/@jasminewang).
 
 
+<br/><br/>
+
+#### Planned September posts:
+* Learning + reflections from Emergent Ventures Unconference
+* Learnings + reflections from Metascience 2019 Symposium
+* Learnings + reflections from China EA Summit
+

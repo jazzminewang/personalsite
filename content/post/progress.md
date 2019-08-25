@@ -1,6 +1,6 @@
 +++
-title = "[Normative] Progress Studies - a literature review"
-description = "A first attempt at a literature review."
+title = "[Normative] Progress Studies"
+summary = "A first attempt at a literature review and a call for participation!"
 tags = [
     "progress"
 ]
