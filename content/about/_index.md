@@ -2,7 +2,7 @@
 title = "🌏✨"
 +++
 
-Hi! I'm Jasmine. I'm a technologist + philosopher, sometimes all at once.
+Hi! I'm Jasmine. I'm a technologist and philosopher, sometimes both at once.
 I currently work at [OpenAI](https://openai.com/) as a researcher on the policy team, and have previously done engineering and research for [Lyft self-driving](https://self-driving.lyft.com/), and [Microsoft Research's Tech for Emerging Markets group](https://www.microsoft.com/en-us/research/group/technology-for-emerging-markets/). 
 
 I like thinking about, learning, and practicing machine learning, philosophy of science, scifi, poetry, and classical music. Recently, I've been thinking about human-machine augmentation, metascience, trust in the face of collective action problems, and utopia. 
