@@ -66,7 +66,7 @@ The study of incentives in knowledge-producing institutions could generalize to 
 * [Michael Weisberg: New Approaches to the Division of Cognitive Labor](http://opim.wharton.upenn.edu/~sok/papers/w/weisberg/newwavesocial4wgraphics.pdf)
 * [H. David Politzer: Nobel Prize Lecture on The Dilemma of Attribution](https://www.nobelprize.org/uploads/2018/06/politzer-lecture.pdf)
 * [Ed Boyden: Research as a Community-Building Activity](https://www.technologyreview.com/s/410524/research-as-a-community-building-activity/)
-* [Alex Bell et. al](Who Becomes an Inventor in America? The Importance of Exposure to Innovation)
+* [Alex Bell et. al, Who Becomes an Inventor in America? The Importance of Exposure to Innovation](https://www.nber.org/papers/w24062)
 * [Karl Popper, The Logic of Scientific Discovery](https://www.amazon.com/gp/product/1614277435/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jasminewang-20&creative=9325&linkCode=as2&creativeASIN=1614277435&linkId=8ca686812de22984e420f2c155adab5e)
 * [Karl Popper, Conjectures and Refutations: The Growth of Scientific Knowledge](https://www.amazon.com/gp/product/0415285941/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jasminewang-20&creative=9325&linkCode=as2&creativeASIN=0415285941&linkId=d6f1ab3036a487869716aa7f8c29fca6)
 * [Michel Foucault, The Order of Things: An Archaeology of the Human Sciences](https://www.amazon.com/gp/product/0679753354/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jasminewang-20&creative=9325&linkCode=as2&creativeASIN=0679753354&linkId=268e74047c31623623ec00689dff37f0)
