@@ -16,7 +16,7 @@ title = "🌏✨"
 ## Introduction
 Progress, as defined by Tyler Cowen and Patrick Collison, as “the combination of economic, technological, scientific, cultural, and organizational advancement that has transformed our lives and raised standards of living over the past couple of centuries”[^1].
 
-Progress is ‘pre-paradigmatic’; for researchers to conduct ‘normal research’, a research agenda must be set. _This is a first attempt at thinking about the relevant literature to inherit from in thinking about scientific and technological progress_. Besides agenda-setting, progress studies requires a set of accepted tools, methods, and procedures - this is punted for a later review. 
+Progress is ‘pre-paradigmatic’; for researchers to conduct ‘normal research’, a research agenda must be set. _This is a first attempt at thinking about the relevant literature to inherit from in thinking about scientific and technological progress_[^2]. Besides agenda-setting, progress studies requires a set of accepted tools, methods, and procedures - this is punted for a later review. 
 
 _This is a living document; it currently represents a very particular view of the world, and I'd love for it to be shored up as a fuller curriculum, possibly under different organizing taxonomies_. The vision is for this document to evolve into a wiki of 'pointers' pointing to others' work on these topics, starting with more thorough literature reviews on specific questions. Also - please suggest alternative taxonomies for organizing research on progress. If you'd like to join the discussion and/or work directly on these questions (inspired by an extra-institutional format like [Credibility Coalition](https://credibilitycoalition.org/)), join this [Slack](https://join.slack.com/t/progressstudies/shared_invite/enQtNzEyNTY1MzkyNzg3LTljMzk0YWFkZWRhNjljOWMyM2VhYjVkMGQ5ZjRhZDNkMDI3YTY5MDNlMmVhMjQ5ZDQ4Mzc1YzlmNjRlZTFjMmE) 😊.
 
@@ -75,6 +75,7 @@ The study of incentives in knowledge-producing institutions could generalize to 
 #### Mechanism design + incentive design 
 Humans operate in societies governed by institutional mechanisms that elicit certain behaviours and aggregate certain information. 
 
+##### Resources:				
 * Mechanism Design Theory - [2007 Nobel Prize scientific background](https://www.nobelprize.org/uploads/2018/06/advanced-economicsciences2007.pdf)
 * The Handbook of Economic Innovation - [summary](https://katalepsisblog.wordpress.com/2015/09/29/handbook-of-the-economics-of-innovation-some-sort-of-summary/)
 * [Scott Alexander: Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
@@ -124,6 +125,7 @@ As Diane Coyle noted in [her response](https://www.project-syndicate.org/comment
 
 #### Progress definition and measurement
 Developing various taxonomies of progress / regress + indicators for each, as well as ways to measure variables that are hypothesized to proxy or cause progress, is important because you make what you measure - this creates common ‘metrics’ and clarifies definitions of progress by factorizing them. 
+
 ##### Resources:  
 * [Kate Raworth, Doughnut Economics](https://www.amazon.com/gp/product/1603587969/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jasminewang-20&creative=9325&linkCode=as2&creativeASIN=1603587969&linkId=566f75ba3752e752c62d27fed6305787)
 * [Ricardo Hausmann, The Atlas of Economic Complexity: Mapping Paths to Prosperity](https://growthlab.cid.harvard.edu/publications/atlas-economic-complexity-mapping-paths-prosperity)
@@ -140,6 +142,7 @@ Scientific and technological progress brings about new possibilities that the wo
 #### Costs of progress 
 Can progress be ‘too fast’? What are the costs of progress-supporting actions (eg. scientific openness)? How can we ensure we invest sufficiently in technological safety in a competitive world? Perhaps the worst risks, and therefore the most important ones to consider, are those that are irreversible, such as existential risks. 
 
+##### Resources:				
 * [Nick Bostrom, Existential Risks](http://www.nickbostrom.com/existential/risks.pdf)
 * [Nick Bostrom, Superintelligence](https://www.amazon.com/gp/product/0198739834/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jasminewang-20&creative=9325&linkCode=as2&creativeASIN=0198739834&linkId=3fbc7010dbaf62636b484ae809437540)
 * [Amanda Askell, Why Responsible AI Development Needs Cooperation on Safety](https://openai.com/blog/cooperation-on-safety/)
@@ -149,6 +152,7 @@ Can progress be ‘too fast’? What are the costs of progress-supporting action
 #### Robust decision-making and better prediction under uncertainty
 Both those directly involved in progress-actuation, as well as those who study and attempt to shape progress, make decisions and attempt to predict outcomes under uncertainty. "Ethical assessment in the incipient stages of a potential technological revolution faces several difficulties, including the unpredictability of their long‐term impacts, the problematic role of human agency in bringing them about, and the fact that technological revolutions rewrite not only the material conditions of our existence but also reshape culture and even – perhaps – human nature.
 
+##### Resources:				
 * [Nick Bostrom, Technological Revolutions: Ethics and Policy in the Dark](https://nickbostrom.com/revolutions.pdf)
 * [On the Path-dependence of Economic Growth](https://web.archive.org/web/20100624073123/http://www.math.columbia.edu/~jbellaic/growth.pdf)
 * [Jonathan Baron, Thinking and Deciding](https://www.amazon.com/gp/product/0521680433/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0521680433&linkCode=as2&tag=jasminewang-20&linkId=6f0688dfcf4cc9d598d6b6c2a91c2a12)
@@ -159,7 +163,7 @@ Thanks for reading! I compiled this syllabus because I was interested in organiz
 *Thank you to [Tyler Cowen](https://twitter.com/tylercowen), [Michael Akilian](https://twitter.com/akilian), [Jason Crawford](https://twitter.com/jasoncrawford), [Jose Luis Ricon](https://twitter.com/ArtirKel), [Maran Nelson](https://twitter.com/marannelson), [Humphrey Obuobi](https://twitter.com/hoctopi), [Afika Nyati](https://twitter.com/afikanyati), [Gareth Gransaull](https://twitter.com/ggransaull), [Luca Rade](https://twitter.com/Rade_Luca), [Vincent Chen](https://twitter.com/vincentsunnchen?lang=en), and Cameron Najafi for reading over earlier drafts, and giving feedback and comments! All mistakes + errors mine. 
 
 [^1]: https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/
-
+[^2]: Also - please note that the books are Amazon affiliate links! :) 
 
 
 ----- intro page - will be moved to separate page ------
