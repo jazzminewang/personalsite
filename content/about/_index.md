@@ -150,7 +150,7 @@ Can progress be ‘too fast’? What are the costs of progress-supporting action
 * [Tom Wessels, The Myth of Progress](https://www.amazon.com/gp/product/1611684161/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1611684161&linkCode=as2&tag=jasminewang-20&linkId=81ea274de374da5a19791f7cd09b2278)
 
 #### Robust decision-making and better prediction under uncertainty
-Both those directly involved in progress-actuation, as well as those who study and attempt to shape progress, make decisions and attempt to predict outcomes under uncertainty. "Ethical assessment in the incipient stages of a potential technological revolution faces several difficulties, including the unpredictability of their long‐term impacts, the problematic role of human agency in bringing them about, and the fact that technological revolutions rewrite not only the material conditions of our existence but also reshape culture and even – perhaps – human nature.
+Both those directly involved in progress-actuation, as well as those who study and attempt to shape progress, make decisions and attempt to predict outcomes under uncertainty. "Ethical assessment in the incipient stages of a potential technological revolution faces several difficulties, including the unpredictability of their long‐term impacts, the problematic role of human agency in bringing them about, and the fact that technological revolutions rewrite not only the material conditions of our existence but also reshape culture and even – perhaps – human nature."
 
 ##### Resources:				
 * [Nick Bostrom, Technological Revolutions: Ethics and Policy in the Dark](https://nickbostrom.com/revolutions.pdf)
