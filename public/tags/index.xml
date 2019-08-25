@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jasmine Wang</title>
-    <link>http://example.org/tags/</link>
+    <link>http://jasminew.me/tags/</link>
     <description>Recent content in Tags on Jasmine Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jasminew.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>progress</title>
-      <link>http://example.org/tags/progress/</link>
+      <link>http://jasminew.me/tags/progress/</link>
       <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/progress/</guid>
+      <guid>http://jasminew.me/tags/progress/</guid>
       <description></description>
     </item>
     

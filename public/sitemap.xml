@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/progress/</loc>
+    <loc>http://jasminew.me/post/progress/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://jasminew.me/categories/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/golang/</loc>
+    <loc>http://jasminew.me/categories/golang/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://jasminew.me/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://jasminew.me/post/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/progress/</loc>
+    <loc>http://jasminew.me/categories/progress/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/progress/</loc>
+    <loc>http://jasminew.me/tags/progress/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://jasminew.me/tags/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://jasminew.me/about/</loc>
   </url>
   
 </urlset>
