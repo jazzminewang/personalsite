@@ -7,7 +7,6 @@ tags = [
 date = "2019-08-24"
 categories = [
     "Progress",
-    "golang",
 ]
 +++
 <!-- +++
@@ -17,7 +16,7 @@ title = "🌏✨"
 ## Introduction
 Progress, as defined by Tyler Cowen and Patrick Collison, as “the combination of economic, technological, scientific, cultural, and organizational advancement that has transformed our lives and raised standards of living over the past couple of centuries”[^1].
 
-Progress is ‘pre-paradigmatic’; for researchers to conduct ‘normal research’, a research agenda must be set. _This is a first attempt at thinking about the relevant literature to inherit from in thinking about scientific and technological progress. Besides agenda-setting, progress studies requires a set of accepted tools, methods, and procedures - this is punted for a later review. 
+Progress is ‘pre-paradigmatic’; for researchers to conduct ‘normal research’, a research agenda must be set. _This is a first attempt at thinking about the relevant literature to inherit from in thinking about scientific and technological progress_. Besides agenda-setting, progress studies requires a set of accepted tools, methods, and procedures - this is punted for a later review. 
 
 _This is a living document; it currently represents a very particular view of the world, and I'd love for it to be shored up as a fuller curriculum, possibly under different organizing taxonomies_. The vision is for this document to evolve into a wiki of 'pointers' pointing to others' work on these topics, starting with more thorough literature reviews on specific questions. Also - please suggest alternative taxonomies for organizing research on progress. If you'd like to join the discussion and/or work directly on these questions (inspired by an extra-institutional format like [Credibility Coalition](https://credibilitycoalition.org/)), join this [Slack](https://join.slack.com/t/progressstudies/shared_invite/enQtNzEyNTY1MzkyNzg3LTljMzk0YWFkZWRhNjljOWMyM2VhYjVkMGQ5ZjRhZDNkMDI3YTY5MDNlMmVhMjQ5ZDQ4Mzc1YzlmNjRlZTFjMmE) 😊.
 
@@ -42,7 +41,7 @@ How were societally-useful discoveries made? The relationship between funding an
 * [Carl Frey, The Technology Trap: Capital, Labor, and Power in the Age of Automation](https://www.amazon.com/gp/product/069117279X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=069117279X&linkCode=as2&tag=jasminewang-20&linkId=9cbd73d2bf422034b5a9eae6cfe5ea44)
 * [Richard Rhodes, Energy: A Human History](https://www.amazon.com/gp/product/1501105353/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jasminewang-20&creative=9325&linkCode=as2&creativeASIN=1501105353&linkId=c0dd39d5acaee7498f02f2ca9a15eb73)
 * [Thomas P. Hughes, American Genesis: A Century of Invention and Technological Enthusiasm](https://www.amazon.com/gp/product/0226359271/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jasminewang-20&creative=9325&linkCode=as2&creativeASIN=0226359271&linkId=2d53b0f2e1a6ffa4ff35dfb4235547e5)
-* * [David Deutsch, The Beginning of Infinity](https://www.amazon.com/gp/product/0143121359/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jasminewang-20&creative=9325&linkCode=as2&creativeASIN=0143121359&linkId=8d0388ca9098d0de3139e5446514b2d9)
+* [David Deutsch, The Beginning of Infinity](https://www.amazon.com/gp/product/0143121359/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jasminewang-20&creative=9325&linkCode=as2&creativeASIN=0143121359&linkId=8d0388ca9098d0de3139e5446514b2d9)
 
 #### Philosophy of technology / technological progress:
 Science creates knowledge; technology develops and employs knowledge. Understanding the relationship between scientific and technological progress could inform the structuring of the feedback loop between the two disciplines. What accounts for the emergence and deployment of particular technologies? For example, why were digital computers developed only during the second half of the twentieth century even though their basic principles were understood more than a hundred years earlier?
