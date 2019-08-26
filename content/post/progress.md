@@ -18,7 +18,7 @@ Progress is ‘pre-paradigmatic’; for researchers to conduct ‘normal researc
 
 _This is a living rough draft; it currently represents a very particular view of the world, and I'd love for it to be shored up as a fuller curriculum, possibly under different organizing taxonomies_. The vision is for this document to evolve into a wiki of 'pointers' pointing to others' work on these topics, starting with more thorough literature reviews on specific questions. Also - please suggest alternative taxonomies for organizing research on progress. If you'd like to join the discussion and/or work directly on these questions (inspired by an extra-institutional format like [Credibility Coalition](https://credibilitycoalition.org/)), join this [Slack](https://join.slack.com/t/progressstudies/shared_invite/enQtNzEyNTY1MzkyNzg3LTljMzk0YWFkZWRhNjljOWMyM2VhYjVkMGQ5ZjRhZDNkMDI3YTY5MDNlMmVhMjQ5ZDQ4Mzc1YzlmNjRlZTFjMmE) 😊.
 
-Also - folks have pointed out that I am referencing material inconsistently - will fix this in the next pass!
+Also - folks have pointed out that I am referencing material inconsistently (eg missing 'et. al's where appropriate) - will fix this in the next pass!
 
 ## Organizing framework
 
@@ -158,4 +158,6 @@ Thanks for reading! I compiled this syllabus because I was interested in organiz
 
 *Thank you to [Tyler Cowen](https://twitter.com/tylercowen), [Michael Akilian](https://twitter.com/akilian), [Jason Crawford](https://twitter.com/jasoncrawford), [Jose Luis Ricon](https://twitter.com/ArtirKel), [Maran Nelson](https://twitter.com/marannelson), [Humphrey Obuobi](https://twitter.com/hoctopi), [Afika Nyati](https://twitter.com/afikanyati), [Gareth Gransaull](https://twitter.com/ggransaull), [Luca Rade](https://twitter.com/Rade_Luca), and Cameron Najafi for reading over earlier drafts, and giving feedback and comments! All mistakes + errors mine. 
 
+<br/><br/>
+To be notified when I post + receive fun artifacts I discover along the way, subscribe to my [newsletter](https://tinyletter.com/jasminewang).
 [^1]: https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/
