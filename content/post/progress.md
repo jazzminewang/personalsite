@@ -18,6 +18,8 @@ Progress is ‘pre-paradigmatic’; for researchers to conduct ‘normal researc
 
 _This is a living rough draft; it currently represents a very particular view of the world, and I'd love for it to be shored up as a fuller curriculum, possibly under different organizing taxonomies_. The vision is for this document to evolve into a wiki of 'pointers' pointing to others' work on these topics, starting with more thorough literature reviews on specific questions. Also - please suggest alternative taxonomies for organizing research on progress. If you'd like to join the discussion and/or work directly on these questions (inspired by an extra-institutional format like [Credibility Coalition](https://credibilitycoalition.org/)), join this [Slack](https://join.slack.com/t/progressstudies/shared_invite/enQtNzEyNTY1MzkyNzg3LTljMzk0YWFkZWRhNjljOWMyM2VhYjVkMGQ5ZjRhZDNkMDI3YTY5MDNlMmVhMjQ5ZDQ4Mzc1YzlmNjRlZTFjMmE) 😊.
 
+Also - folks have pointed out that I am referencing material inconsistently - will fix this in the next pass!
+
 ## Organizing framework
 
 What would studying progress entail, and require? Three questions seem fundamental:
