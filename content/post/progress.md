@@ -11,6 +11,7 @@ categories = [
 ]
 +++
 
+
 ## Introduction
 Progress, as defined by Tyler Cowen and Patrick Collison, as “the combination of economic, technological, scientific, cultural, and organizational advancement that has transformed our lives and raised standards of living over the past couple of centuries”[^1].
 
@@ -19,6 +20,8 @@ Progress is ‘pre-paradigmatic’; for researchers to conduct ‘normal researc
 _This is a living rough draft; it currently represents a very particular view of the world, and I'd love for it to be shored up as a fuller curriculum, possibly under different organizing taxonomies_. The vision is for this document to evolve into a wiki of 'pointers' pointing to others' work on these topics, starting with more thorough literature reviews on specific questions. Also - please suggest alternative taxonomies for organizing research on progress. If you'd like to join the discussion and/or work directly on these questions (inspired by an extra-institutional format like [Credibility Coalition](https://credibilitycoalition.org/)), join this [Slack](https://join.slack.com/t/progressstudies/shared_invite/enQtNzQ1OTUyMzcxOTIzLWI2M2ZhYTJjN2E0ZDQ1YTJhY2E5OTE4ZjI5NDUyNDUyZmY0Y2Q3MDY5NWM1MDUxYTM3N2Y2NDdhNTVjZjM4NzM) 😊.
 
 Also - folks have pointed out that I am referencing material inconsistently (eg missing 'et. al's where appropriate) - will fix this in the next pass!
+
+*Nov 2 2019: I apologize for the incorrect citing here, I haven't had time to fix it -- I've also received tons of excellent feedback to this post, which I haven't incorporated yet. 
 
 ## Organizing framework
 
