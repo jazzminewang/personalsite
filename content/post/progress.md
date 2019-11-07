@@ -21,7 +21,7 @@ _This is a living rough draft; it currently represents a very particular view of
 
 Also - folks have pointed out that I am referencing material inconsistently (eg missing 'et. al's where appropriate) - will fix this in the next pass!
 
-*Nov 2 2019: I apologize for the incorrect citing here, I haven't had time to fix it -- I've also received tons of excellent feedback to this post, which I haven't incorporated yet. 
+*Nov 2 2019: I apologize for the incorrect citing here, I haven't had time to fix it -- I've also received tons of excellent feedback to this post, which I haven't incorporated yet. In many ways this is a naive 
 
 ## Organizing framework
 
@@ -51,10 +51,10 @@ Science creates knowledge; technology develops and employs knowledge. Understand
 
 ##### Resources:
 
-* [J. Doyne Farmer: How Predictable is Technological Progress?](https://arxiv.org/abs/1502.05274)
+* [J. Doyne Farmer, How Predictable is Technological Progress?](https://arxiv.org/abs/1502.05274)
 * [Thomas Kuhn, The Structure of Scientific Revolutions](https://www.amazon.com/gp/product/0226458121/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=progress0d3-20&creative=9325&linkCode=as2&creativeASIN=0226458121&linkId=93d39a23dbe7556fecce350929e54a6f)
-* [Besomi, Daniele: Harrod on the classification of technological progress. The origin of a wild-goose chase](https://ideas.repec.org/a/psl/bnlqrr/199914.html)
-* [Jacques Ellul , The Technological Society](https://www.amazon.com/gp/product/B010WICIXQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=progress0d3-20&creative=9325&linkCode=as2&creativeASIN=B010WICIXQ&linkId=3595361d88b54d205ce075c9ada61112)
+* [Besomi, Daniele, Harrod on the classification of technological progress. The origin of a wild-goose chase](https://ideas.repec.org/a/psl/bnlqrr/199914.html)
+* [Jacques Ellul, The Technological Society](https://www.amazon.com/gp/product/B010WICIXQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=progress0d3-20&creative=9325&linkCode=as2&creativeASIN=B010WICIXQ&linkId=3595361d88b54d205ce075c9ada61112)
 * [Martin Heidegger: The Question Concerning Technology](https://simondon.ocular-witness.com/wp-content/uploads/2008/05/question_concerning_technology.pdf)
 * [Santa Fe Institute](https://santafe.edu)
 
@@ -115,7 +115,7 @@ It is too general a definition to think of progress as pure delta from our curre
 
 
 #### Visions of the future
-As Diane Coyle noted in [her response](https://www.project-syndicate.org/commentary/economic-progress-academic-research-puzzle-by-diane-coyle-2019-08) to the original article on Progress Studies, "the debate about progress therefore raises profound political and philosophical questions about the kind of societies we want." Much of the current discussion about progress falls into ‘instrumental rationality’ - the 'how'; if progress does indeed have a telos [final goal] it would be utopia. Teleological rationality could help coalesce workstreams and direct research agendas. Reading different visions of the future might also make us aware of gaps in our imagination and make available routes for progress that were previously invisible. 
+As Diane Coyle noted in [her response](https://www.project-syndicate.org/commentary/economic-progress-academic-research-puzzle-by-diane-coyle-2019-08) to the original article on Progress Studies, "the debate about progress therefore raises profound political and philosophical questions about the kind of societies we want." Much of the current discussion about progress falls into ‘instrumental rationality’ - the 'how'; does/should progress does have a telos?. 
 
 ##### Resources:
 * Manifestos for the Internet Age - [github repo with all manifestos](https://github.com/greyscalepress/manifestos/tree/master/content/manifestos)
@@ -145,7 +145,7 @@ Can progress be ‘too fast’? What are the costs of progress-supporting action
 
 * [Nick Bostrom, Existential Risks](http://www.nickbostrom.com/existential/risks.pdf)
 * [Nick Bostrom, Superintelligence](https://www.amazon.com/gp/product/0198739834/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=progress0d3-20&creative=9325&linkCode=as2&creativeASIN=0198739834&linkId=3fbc7010dbaf62636b484ae809437540)
-* [Amanda Askell, Why Responsible AI Development Needs Cooperation on Safety](https://openai.com/blog/cooperation-on-safety/)
+* [Amanda Askell et. al, Why Responsible AI Development Needs Cooperation on Safety](https://openai.com/blog/cooperation-on-safety/)
 * [Paul Christiano. On progress and prosperity](https://forum.effectivealtruism.org/posts/L9tpuR6ZZ3CGHackY/on-progress-and-prosperity)
 * [Tom Wessels, The Myth of Progress](https://www.amazon.com/gp/product/1611684161/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1611684161&linkCode=as2&tag=progress0d3-20&linkId=81ea274de374da5a19791f7cd09b2278)
 
@@ -157,7 +157,7 @@ Both those directly involved in progress-actuation, as well as those who study a
 * [Jonathan Baron, Thinking and Deciding](https://www.amazon.com/gp/product/0521680433/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0521680433&linkCode=as2&tag=progress0d3-20&linkId=6f0688dfcf4cc9d598d6b6c2a91c2a12)
 * [Phillip Tetlock, Superforecasting](https://www.amazon.com/gp/product/0804136718/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=progress0d3-20&creative=9325&linkCode=as2&creativeASIN=0804136718&linkId=5df82e23464e35d501e185ea8525dac6)
 
-Thanks for reading! I compiled this syllabus because I was interested in organizing my thinking under this framework - if you're interested in thinking / working together with other folks interested in understanding how to make the world radically better - join this [Slack](https://join.slack.com/t/progressstudies/shared_invite/enQtNzEyNTY1MzkyNzg3LTljMzk0YWFkZWRhNjljOWMyM2VhYjVkMGQ5ZjRhZDNkMDI3YTY5MDNlMmVhMjQ5ZDQ4Mzc1YzlmNjRlZTFjMmE) 😊. 
+Thanks for reading! I compiled this syllabus fairly quickly because I was interested in organizing my thinking under this framework - if you're interested in thinking / working together with other folks in this - join this [Slack](https://join.slack.com/t/progressstudies/shared_invite/enQtNzEyNTY1MzkyNzg3LTljMzk0YWFkZWRhNjljOWMyM2VhYjVkMGQ5ZjRhZDNkMDI3YTY5MDNlMmVhMjQ5ZDQ4Mzc1YzlmNjRlZTFjMmE) 😊. 
 
 *Thank you to [Tyler Cowen](https://twitter.com/tylercowen), [Michael Akilian](https://twitter.com/akilian), [Jason Crawford](https://twitter.com/jasoncrawford), [Jose Luis Ricon](https://twitter.com/ArtirKel), [Maran Nelson](https://twitter.com/marannelson), [Humphrey Obuobi](https://twitter.com/hoctopi), [Afika Nyati](https://twitter.com/afikanyati), [Gareth Gransaull](https://twitter.com/ggransaull), [Luca Rade](https://twitter.com/Rade_Luca), and Cameron Najafi for reading over earlier drafts, and giving feedback and comments! All mistakes + errors mine. 
 
